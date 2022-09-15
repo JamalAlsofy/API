@@ -1,0 +1,14 @@
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Application.deps.json
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Application.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Application.pdb
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Domain.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Infrastructure.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Infrastructure.pdb
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\bin\Debug\netcoreapp3.1\Library.Domain.pdb
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.csprojAssemblyReference.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.AssemblyInfoInputs.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.AssemblyInfo.cs
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.csproj.CoreCompileInputs.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.csproj.CopyComplete
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Application\obj\Debug\netcoreapp3.1\Library.Application.pdb

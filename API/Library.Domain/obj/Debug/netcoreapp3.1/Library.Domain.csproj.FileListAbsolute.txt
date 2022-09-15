@@ -1,0 +1,9 @@
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\bin\Debug\netcoreapp3.1\Library.Domain.deps.json
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\bin\Debug\netcoreapp3.1\Library.Domain.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\bin\Debug\netcoreapp3.1\Library.Domain.pdb
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.csprojAssemblyReference.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.AssemblyInfoInputs.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.AssemblyInfo.cs
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.csproj.CoreCompileInputs.cache
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.dll
+E:\BH\IRepo\Tharwat.Payments.Management\API\Library.Domain\obj\Debug\netcoreapp3.1\Library.Domain.pdb
